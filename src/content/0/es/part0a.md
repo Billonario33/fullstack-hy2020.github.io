@@ -1,3 +1,30 @@
+**¡Bienvenidos a Full Stack Open 2020!**
+
+En este curso, nos sumergiremos en el emocionante mundo del desarrollo web moderno con JavaScript. ¿Están listos para embarcarse en esta emocionante aventura?
+
+**¿Qué vamos a aprender?**
+
+Vamos a explorar las maravillas de las aplicaciones de una sola página implementadas con React, respaldadas por servicios web RESTful y GraphQL implementados con Node.js. Además, nos sumergiremos en TypeScript, React Native e Integración continua.
+
+**Requisitos previos**
+
+¡No se preocupen! No necesitan ser genios de la programación para unirse a nosotros en esta aventura. Todo lo que pedimos es un buen manejo de la programación, conocimientos básicos de desarrollo web y bases de datos, y un poco de familiaridad con Git. Además, ¡perseverancia y habilidades para resolver problemas son clave!
+
+**¿Cuánta experiencia necesitas?**
+
+Es difícil de decir, pero piensa en ello como aprender un nuevo idioma. Se necesita tiempo y práctica. ¿Cuánto? Bueno, unas buenas 100-200 horas de práctica deberían ayudarte a sentirte bastante cómodo.
+
+**Material del curso**
+
+Nuestro material está diseñado para que lo disfrutes paso a paso. Tómate tu tiempo y asegúrate de entender cada parte antes de pasar a la siguiente. ¡Estamos aquí para ayudarte!
+
+**Tomando el curso**
+
+El curso consta de 14 partes, cada una diseñada para llevar aproximadamente una semana. Pero hey, la velocidad a la que completas el curso es totalmente flexible. No te sientas presionado. La idea es que te sientas cómodo y seguro con lo que estás aprendiendo.
+
+**Apoyo y comunidad**
+
+¡No estás solo en esta aventura! Únete a nuestra comunidad en Discord y Telegram. Estamos aquí para ayudarnos mutuamente, compartir ideas y hacer de est
 ---
 mainImage: ../../../images/part-0.svg
 part: 0
